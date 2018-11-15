@@ -24,3 +24,4 @@ Developer     | Order Preference
 [Marah]                                             | Chicken Quesadilla
 [Julius](https://github.com/jbzozowski)             | Cantina Burrito - Steak
 [Lucas]                                             | Chicken Quesadilla
+[Cory](https://github.com/khaladin)                 | Latin Lover - chicken enchiladas, beef tacos or w/e they offer
